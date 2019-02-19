@@ -1,0 +1,9 @@
+{
+  "name": "CKEditorElectron",
+  "version": "1.0.0",
+  "description": "CKeditor with open/save file option.",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-packager": "^8.6.0"
+  }
+}
